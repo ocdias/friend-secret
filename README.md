@@ -9,7 +9,7 @@ Desenvolvido em HTM, CSS e JS esse projeto consiste em uma ferramenta que recebe
 
 
 # 📲 Como Acessar o Aplicativo
-Link: Adiconar Link do versel 
+Link: Adiconar Link do versel https://friend-secret.vercel.app/
 
 
 #  Nativo no Aplicativo:
